@@ -1,0 +1,5 @@
+sample-id,absolute-filepath,direction
+sample1,$PWD/sample1_r1.fastq.gz,forward
+sample1,$PWD/sample1_r2.fastq.gz,reverse
+sample2,$PWD/sample2_r1.fastq.gz,forward
+sample2,$PWD/sample2_r2.fastq.gz,reverse
